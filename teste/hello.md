@@ -1,3 +1,3 @@
-    title: les pâtissiers
+	title: les patissiers
   ---
-  Bonjour ceci est un essai.
+  **Bonjour** ceci est un essai.

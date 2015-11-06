@@ -1,12 +1,13 @@
 	Title : Bienvenue
-	Sections : adherez,idee-cadeau,reserver-un-atelier
 ---
 
-L'association **Faite-le vous-même** vous propose des [cours de cuisine et de pâtisserie]({{base_url}}cours) à Rouen. Venez parfaire vos connaissances en pâtisserie et en cuisine, nous vous apprendrson des recettes et vous donnerons des astuces et des conseils pour vous aider à les réaliser.
+# Faites le vous même
+Cours culinaire.
 
- - Farine
- - Sucre
+## Cours entre amis
+(400-600 signes - decrire les cours de type "groupes" et donner envie)
+(1-3 visuels)
 
-[En savoir plus sur l'association]({{base_url}}informations)
+![](images/5908094321_00807b25a6_z.jpg)
 
-
+![https://www.flickr.com/photos/wolfworld/](https://c2.staticflickr.com/6/5271/5908095423_02689cec74_o.jpg)

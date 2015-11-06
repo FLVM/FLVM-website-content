@@ -1,4 +1,4 @@
-﻿	Title : Bienvenue
+	Title : Bienvenue
 	Sections : adherez,idee-cadeau,reserver-un-atelier
 ---
 
@@ -9,4 +9,4 @@ L'association **Faite-le vous-même** vous propose des [cours de cuisine et de p
 
 [En savoir plus sur l'association]({{base_url}}informations)
 
-test
+

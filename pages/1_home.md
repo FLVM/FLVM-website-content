@@ -17,9 +17,16 @@ Ouverts à tout public, comptez en moyenne 3h pour un atelier et repartez avec v
 Dans un souci de développement durable, n'oubliez pas vos récipients hermétiques.
 
 ## Cours entre amis
-(400-600 signes - decrire les cours de type "groupes" et donner envie)
-(1-3 visuels)
+Retrouvez-vous entre amis pour partager un moment convivial et gourmand. 
 
-![](images/5908094321_00807b25a6_z.jpg)
+Macarons, pâte à choux, mille feuille, entremets, viennoiserie et confiserie n'auront plus de secrets pour vous !
+
 
 ![https://www.flickr.com/photos/wolfworld/](https://c2.staticflickr.com/6/5271/5908095423_02689cec74_o.jpg)
+
+## Enterrement de vie de jeune fille
+
+Faites une surprise à la future mariée et offrez-lui un cours mémorable de pâtisserie !
+
+
+![https://www.flickr.com/photos/wolfworld/](http://3.bp.blogspot.com/-coB7095HixU/VGEw_tdDvPI/AAAAAAAAB0k/B5MlavVXS8U/s1600/macaron10.jpg)

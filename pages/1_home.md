@@ -30,3 +30,18 @@ Faites une surprise à la future mariée et offrez-lui un cours mémorable de p�
 
 
 ![https://www.flickr.com/photos/wolfworld/](http://3.bp.blogspot.com/-coB7095HixU/VGEw_tdDvPI/AAAAAAAAB0k/B5MlavVXS8U/s1600/macaron10.jpg)
+## Anniversaire!!! 
+Venez réaliser votre gâteau d'anniversaire ou autre gourmandise... 
+
+
+
+##Les Petites Toques
+
+![https://www.flickr.com/photos/wolfworld/](http://4.bp.blogspot.com/-dLVweoaEeds/UL91R5ddVYI/AAAAAAAABZg/z6W7Biz2Nb4/s1600/DSC_0417.jpg)
+####Laisse ton cartable et mets ton tablier !
+viens me retrouver après la classe, à partir de 17h du lundi au vendredi. Nous apprendrons ensemble trucs et astuces de pâtissier et cuisinier !
+
+####Un anniversaire original: 
+invite tes copains pour réaliser la pâtisserie de ton choix.
+
+

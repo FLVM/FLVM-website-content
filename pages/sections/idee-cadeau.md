@@ -1,5 +1,5 @@
-Title: Idée cadeau
+Title: Idée cadeau:
 ---
-Pour les anniversaires, fêtes des mères ou des pères, mariages et autres heureux évennements, pourquoi ne pas offir un cours, nous vous offrirons le repas!
+Pour les anniversaires, fêtes des mères ou des pères, enterrements de vie de jeune fille et autres heureux évennements, pensez à la carte cadeau et offrez un cours !
  
-[Offir un cours]({{base_url}}plannifier-un-cours)
+[Offrir un cours]({{base_url}}plannifier-un-cours)

@@ -21,7 +21,7 @@ Ouverts à tout public, comptez en moyenne 3h pour un atelier et repartez avec v
 Dans un souci de développement durable, n'oubliez pas vos récipients hermétiques.
 
 #l'atelier pâtisserie se trouve:
-2pl du 39 ème régiment d'infanterie
+2pl du 39 ème régiment d'infanterie (https://www.google.fr/maps/place/Faites-Le+Vous-M%C3%AAme+-+Atelier+de+p%C3%A2tisserie/@49.4406801,1.1008186,17z/data=!3m1!4b1!4m2!3m1!1s0x47e0dc2bb55e0a75:0x86a03c89a2500d8b)
 
 
 ![https://www.flickr.com/photos/wolfworld/](http://1.bp.blogspot.com/-3oYi5pcSlXM/VGEyChMDR0I/AAAAAAAAB1A/rAN4sOkShVQ/s1600/macaron09.jpg)

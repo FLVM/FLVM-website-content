@@ -4,7 +4,7 @@
 ###atelier pain d'épices:
 ![https://www.flickr.com/photos/wolfworld/](http://www.rougier-ple.fr/library/pictures/pas-a-pas/IMG_6519.JPG)
 
-vous fabriquerez le pain pour le tranché,et vous detaillerez le pain d'épice pour le décorer
+vous fabriquerez le pain pour le trancher, et vous en réaliserez un spécial que vous décorerez.
  ###atelier bûche de noel:
  ![https://www.flickr.com/photos/wolfworld/](C:/Users/flvm/Desktop/Saved Pictures/photo buche et autre 137.jpg)
 

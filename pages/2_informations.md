@@ -17,6 +17,7 @@ vous fabriquerez le pain pour le tranché,et vous detaillerez le pain d'épice p
 -traditionnel: biscuit viennois,crème au beurre rafinée parfum au choix et décoration meringue.
 
 ###atelier chocolat de noël
+![https://www.flickr.com/photos/wolfworld/](C:/Users/flvm/Desktop/Saved Pictures/decembre 2012028.JPG)
  fabrication de truffe,mendiant,écorce d'orange,bonbon praliné enrober,friture de noël et d'autre surprise.
 
 

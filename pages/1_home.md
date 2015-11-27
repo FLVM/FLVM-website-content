@@ -6,15 +6,32 @@ L’association" Faites-le-vous-même"  vous propose des cours de cuisine et de 
 
 Arnaud Houley, maître pâtissier, vous aidera à parfaire vos connaissances en pâtisserie, chocolaterie et confiserie.
 
+vous pouvez le joindre au 06 64 50 71 23 ou **www.contact@flvm.fr**
+
 Stéphanie Egret vous accueillera derrière les fourneaux du 160, avec **les Petites Toques**. 
 
 Elle propose également des cours de cuisine pour adultes.
+
+vous pouvez la joindre au 06 41 73 81 93 ou  **www.contact@flvm.fr**
 
 Nous vous apprendrons des recettes et vous donnerons des astuces, des conseils pour vous aider.
 
 Ouverts à tout public, comptez en moyenne 3h pour un atelier et repartez avec vos propres réalisations !
 
 Dans un souci de développement durable, n'oubliez pas vos récipients hermétiques.
+
+#l'atelier pâtisserie se trouve:
+2pl du 39 ème régiment d'infanterie
+
+
+![https://www.flickr.com/photos/wolfworld/](http://1.bp.blogspot.com/-3oYi5pcSlXM/VGEyChMDR0I/AAAAAAAAB1A/rAN4sOkShVQ/s1600/macaron09.jpg)
+
+
+#l'atelier cuisine et pain se trouve:
+
+160 rue eau de robec
+
+![https://www.flickr.com/photos/wolfworld/](C:/Users/flvm/Desktop/Saved Pictures/P1050426.JPG)
 
 ## Cours entre amis
 Retrouvez-vous entre amis pour partager un moment convivial et gourmand. 

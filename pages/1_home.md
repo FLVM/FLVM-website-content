@@ -29,7 +29,7 @@ Dans un souci de développement durable, n'oubliez pas vos récipients hermétiq
 
 #l'atelier cuisine et pain se trouve:
 
-160 rue eau de robec
+160 rue eau de robec https://www.google.fr/maps/place/160+Rue+Eau+de+Robec,+76000+Rouen/@49.4415101,1.0988835,17z/data=!3m1!4b1!4m2!3m1!1s0x47e0ddd562561ac5:0x10270a15c9d5e977
 
 ![https://www.flickr.com/photos/wolfworld/](C:/Users/flvm/Desktop/Saved Pictures/P1050426.JPG)
 

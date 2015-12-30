@@ -1,4 +1,5 @@
 	Title: À propos de FLVM
+	Description: FLVM, ateliers Rouennais de cours de cuisines et de pâtisseries
 	---
 
 ## Les cours

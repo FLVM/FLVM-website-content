@@ -1,10 +1,21 @@
 	Title: À propos de FLVM
 	Description: FLVM, ateliers Rouennais de cours de cuisines et de pâtisseries
+	Sections: informations/navigation
 	---
 
-## Les cours
+## Les cours {#les-cours}
 
-### Horaires
+FLVM vous propose des cours de cuisine et de pâtisserie pour adulte et enfants.
+
+Nos professionnels de la cuisine et de la pâtisserie ce dévouent corps et âme pour vous faire vivre un moment unique. 
+
+Arnaud Houley
+: (petite description environs 300 signes) 
+
+Raphaël Lemonier
+: (petite description environs 300 signes)
+
+## Horaires {#horaires}
 
 Nous proposons 3 horaires par jours du lundi au samedi, chaque cours dure 3 heures.
 
@@ -12,7 +23,38 @@ Nous proposons 3 horaires par jours du lundi au samedi, chaque cours dure 3 heur
  - de 14h30 à 17h30
  - et de 18h30 à 21h30
 
-### Tarifs
+## Lieux {#lieux}
+
+### Le 160 {#le-160}
+Les fourneaux du 160 sont équipé pour les cours de cuisine et les cours de boulangerie.
+
+Le 160
+ : <address>
+	160, rue eaux de Robec, Passage de la petite horloge.
+	<br />
+	76 000 Rouen
+</address>
+
+: Pour les réservations contactez *Arnaud Houley* au 06 41 73 81 93 et à <contact@flvm.fr>
+
+
+[![Carte](https://maps.googleapis.com/maps/api/staticmap?size=600x300&zoom=16&center=49.441712,1.098884&markers=color:blue|49.441712,1.098884)](https://www.google.fr/maps/place/160+Rue+Eau+de+Robec,+76000+Rouen/@49.4415101,1.0988835,17z/data=!3m1!4b1!4m2!3m1!1s0x47e0ddd562561ac5:0x10270a15c9d5e977)
+
+### L'Atelier de pâtisserie {#l-atelier-de-patisserie}
+L'atelier de pâtisserie accueil les cours de pâtisserie pour adulte et enfant.
+
+L'atelier de pâtisserie
+ : <address>
+	<br />
+	2pl du 39 ème régiment d'infanterie 
+	<br />
+	76 000 Rouen
+	</address>
+ : Pour les reservations contactez *Stéphanie Egret* au 06 41 73 81 93 et à <contact@flvm.fr>
+
+[![Carte](https://maps.googleapis.com/maps/api/staticmap?size=600x300&zoom=16&center=49.440854,1.103050&markers=color:blue|49.440854,1.103050)](https://www.google.fr/maps/place/Faites-Le+Vous-M%C3%AAme+-+Atelier+de+p%C3%A2tisserie/@49.4406801,1.1008133,17z/data=!4m7!1m4!3m3!1s0x47e0dc2bb55e0a75:0x86a03c89a2500d8b!2sFaites-Le+Vous-M%C3%AAme+-+Atelier+de+p%C3%A2tisserie!3b1!3m1!1s0x47e0dc2bb55e0a75:0x86a03c89a2500d8b)
+
+## Tarifs {#tarifs}
 
 #### Tarif de groupe
 **35€ par personne** pour un groupe de 5 personnes minimun.
@@ -25,16 +67,6 @@ Si vous souhaitez un cours individuel ou un cours pour une occasion spéciale, n
 
 [Choisir un cours](lien-vers-lagenda){.btn-cta}
 
-## Adhésion
+### Adhésion
 
 L'adhésion à l'association est obligatoire pour profiter des cours, elle est à prix libre (minimu 1€).
-
-## Les profs
-
-Nos professionnels de la cuisine et de la pâtisserie ce dévouent corps et âme pour vous faire vivre un moment unique. 
-
-Arnaud Houley
-: (petite description environs 300 signes) 
-
-Raphaël Lemonier
-: (petite description environs 300 signes)

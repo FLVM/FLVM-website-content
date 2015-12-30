@@ -3,31 +3,8 @@
 
 # Faites le vous même
 L’association" Faites-le-vous-même"  vous propose des cours de cuisine et de pâtisserie à Rouen.
+Nous vous proposons des cours de cuisines et de pâtisserie.
 
-Arnaud Houley, maître pâtissier, vous aidera à parfaire vos connaissances en pâtisserie, chocolaterie et confiserie.
-
-vous pouvez le joindre au 06 64 50 71 23 ou **www.contact@flvm.fr**
-
-Stéphanie Egret vous accueillera derrière les fourneaux du 160, avec **les Petites Toques**. 
-
-Elle propose également des cours de cuisine pour adultes.
-
-vous pouvez la joindre au 06 41 73 81 93 ou  **www.contact@flvm.fr**
-
-Nous vous apprendrons des recettes et vous donnerons des astuces, des conseils pour vous aider.
-
-Ouverts à tout public, comptez en moyenne 3h pour un atelier et repartez avec vos propres réalisations !
-
-Dans un souci de développement durable, n'oubliez pas vos récipients hermétiques.
-
-#l'atelier pâtisserie se trouve:
-2pl du 39 ème régiment d'infanterie 
-[![Carte](https://maps.googleapis.com/maps/api/staticmap?size=600x300&zoom=16&center=49.440854,1.103050&markers=color:blue|49.440854,1.103050)](https://www.google.fr/maps/place/Faites-Le+Vous-M%C3%AAme+-+Atelier+de+p%C3%A2tisserie/@49.4406801,1.1008133,17z/data=!4m7!1m4!3m3!1s0x47e0dc2bb55e0a75:0x86a03c89a2500d8b!2sFaites-Le+Vous-M%C3%AAme+-+Atelier+de+p%C3%A2tisserie!3b1!3m1!1s0x47e0dc2bb55e0a75:0x86a03c89a2500d8b)
-
-#l'atelier cuisine et pain se trouve:
-[![Carte](https://maps.googleapis.com/maps/api/staticmap?size=600x300&zoom=16&center=49.441712,1.098884&markers=color:blue|49.441712,1.098884)](https://www.google.fr/maps/place/160+Rue+Eau+de+Robec,+76000+Rouen/@49.4415101,1.0988835,17z/data=!3m1!4b1!4m2!3m1!1s0x47e0ddd562561ac5:0x10270a15c9d5e977)
-
-![https://www.flickr.com/photos/wolfworld/](C:/Users/flvm/Desktop/Saved Pictures/P1050426.JPG)
 
 ## Cours entre amis
 Retrouvez-vous entre amis pour partager un moment convivial et gourmand. 

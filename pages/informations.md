@@ -3,7 +3,7 @@
 	Related: team/marie-lionis, team/arnaud-houley, team/stephanie-egret, team/raphael-lemmonier
 	---
 
-# Faite le vous même {#introduction}
+# Faites le vous même {#introduction}
 
 FLVM vous propose des cours de cuisine et de pâtisserie pour adulte et enfants.
 

@@ -1,13 +1,17 @@
 	Title: À propos de FLVM
 	Description: FLVM, ateliers Rouennais de cours de cuisines et de pâtisseries
-	Sections: informations/navigation
+	Related: team/marie-lionis, team/arnaud-houley, team/stephanie-egret, team/raphael-lemmonier
 	---
 
-## Les cours {#les-cours}
+# Faite le vous même {#introduction}
 
 FLVM vous propose des cours de cuisine et de pâtisserie pour adulte et enfants.
 
 Nos professionnels de la cuisine et de la pâtisserie ce dévouent corps et âme pour vous faire vivre un moment unique. 
+
+ - [Horaires](informations#horaires)
+ - [Lieux](informations#lieux)
+ - [Tarifs](informations#tarifs)
 
 Arnaud Houley
 : (petite description environs 300 signes) 

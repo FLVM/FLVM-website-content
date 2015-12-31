@@ -7,17 +7,7 @@
 
 FLVM vous propose des cours de cuisine et de pâtisserie pour adulte et enfants.
 
-Nos professionnels de la cuisine et de la pâtisserie ce dévouent corps et âme pour vous faire vivre un moment unique. 
-
- - [Horaires](informations#horaires)
- - [Lieux](informations#lieux)
- - [Tarifs](informations#tarifs)
-
-Arnaud Houley
-: (petite description environs 300 signes) 
-
-Raphaël Lemonier
-: (petite description environs 300 signes)
+Nos cours ce déroulent dans [nos ateliers à Rouen](informations#ateliers), nous mettons un point d'honneur à pratiquer des [tarifs accèssibles à tous](informations#tarifs).
 
 ## Horaires {#horaires}
 
@@ -27,7 +17,7 @@ Nous proposons 3 horaires par jours du lundi au samedi, chaque cours dure 3 heur
  - de 14h30 à 17h30
  - et de 18h30 à 21h30
 
-## Lieux {#lieux}
+## Les ateliers {#ateliers}
 
 ### Le 160 {#le-160}
 Les fourneaux du 160 sont équipé pour les cours de cuisine et les cours de boulangerie.
@@ -49,7 +39,6 @@ L'atelier de pâtisserie accueil les cours de pâtisserie pour adulte et enfant.
 
 L'atelier de pâtisserie
  : <address>
-	<br />
 	2pl du 39 ème régiment d'infanterie 
 	<br />
 	76 000 Rouen
@@ -60,17 +49,14 @@ L'atelier de pâtisserie
 
 ## Tarifs {#tarifs}
 
-#### Tarif de groupe
-**35€ par personne** pour un groupe de 5 personnes minimun.
+Tarif de groupe
+: **35€ par personne** pour un groupe de 5 personnes minimun.
 
-#### Tarif réduit
-**25€ par personne** pour les étudiants, les demandeurs d'emploi et les enfants de moins de 12 ans.
+Tarif réduit
+: **25€ par personne** pour les étudiants, les demandeurs d'emploi et les enfants de moins de 12 ans.
 
-#### Tarif individuel et cours à la demande
-Si vous souhaitez un cours individuel ou un cours pour une occasion spéciale, n'hésitez-pas à [ nous contacter](lien-vers-contact).
+Tarif individuel et cours à la demande
+: Si vous souhaitez un cours individuel ou un cours pour une occasion spéciale, n'hésitez-pas à [ nous contacter](lien-vers-contact).
 
-[Choisir un cours](lien-vers-lagenda){.btn-cta}
-
-### Adhésion
-
-L'adhésion à l'association est obligatoire pour profiter des cours, elle est à prix libre (minimu 1€).
+Adhésion
+: L'adhésion à l'association est obligatoire pour profiter des cours, elle est à prix libre (minimu 1€).

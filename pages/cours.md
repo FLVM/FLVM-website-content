@@ -16,7 +16,7 @@ Elle vous accueillera derrière [les fourneaux du 160](informations#les-fourneau
 
 Stéphanie propose également des cours pour enfants. Des recettes spécialement élaboré pour les enfants, facile à refaire à la maison.
 
-Vous pouvez joindre Stéphanie au 06 41 73 81 93 ou à <contact@flvm.fr>
+Pour vous inscrire ou inscrire vos enfants, n'hésitez-pas à contacter Stéphanie au 06 41 73 81 93 ou à <contact@flvm.fr>
 
 [Choisir un cours de cuisine](/planning){.btn .btn-cta}
 

@@ -1,6 +1,6 @@
 	Title: À propos de FLVM
 	Description: FLVM, ateliers Rouennais de cours de cuisines et de pâtisseries
-	Related: team/marie-lionis, team/arnaud-houley, team/stephanie-egret, team/raphael-lemmonier
+	Related: l-equipe, team/marie-lionis, team/arnaud-houley, team/stephanie-egret, team/raphael-lemmonier
 	---
 
 # Faites le vous même {#introduction}
@@ -20,6 +20,9 @@ Nous proposons 3 horaires par jours du lundi au samedi, chaque cours dure 3 heur
 ## Les ateliers {#ateliers}
 
 ### Le 160 {#le-160}
+
+[photo du 160]
+
 Les fourneaux du 160 sont équipé pour les cours de cuisine et les cours de boulangerie.
 
 Le 160
@@ -35,6 +38,9 @@ Le 160
 [![Carte](https://maps.googleapis.com/maps/api/staticmap?size=600x300&zoom=16&center=49.441712,1.098884&markers=color:blue|49.441712,1.098884)](https://www.google.fr/maps/place/160+Rue+Eau+de+Robec,+76000+Rouen/@49.4415101,1.0988835,17z/data=!3m1!4b1!4m2!3m1!1s0x47e0ddd562561ac5:0x10270a15c9d5e977)
 
 ### L'Atelier de pâtisserie {#l-atelier-de-patisserie}
+
+![photo de l'atelier de pâtisserie](images/informations/l-atelier-de-patisserie.jpg)
+
 L'atelier de pâtisserie accueil les cours de pâtisserie pour adulte et enfant.
 
 L'atelier de pâtisserie
@@ -56,7 +62,7 @@ Tarif réduit
 : **25€ par personne** pour les étudiants, les demandeurs d'emploi et les enfants de moins de 12 ans.
 
 Tarif individuel et cours à la demande
-: Si vous souhaitez un cours individuel ou un cours pour une occasion spéciale, n'hésitez-pas à [ nous contacter](lien-vers-contact).
+: Si vous souhaitez un cours individuel ou un cours pour une occasion spéciale, n'hésitez-pas à [nous contacter](lien-vers-contact).
 
 Adhésion
 : L'adhésion à l'association est obligatoire pour profiter des cours, elle est à prix libre (minimu 1€).

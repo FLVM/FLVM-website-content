@@ -1,5 +1,5 @@
 	title: Cours de cuisine et de pâtisserie
-	related: cours/informations, cours/atelier-pain-d-epices, cours/atelier-buche-de-noel, cours/atelier-chocolat-de-noel
+	related: informations, atelier-pain-d-epices, atelier-buche-de-noel, atelier-chocolat-de-noel
 	---
 
 # Cours de cuisine

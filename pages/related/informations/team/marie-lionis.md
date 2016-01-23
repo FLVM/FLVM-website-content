@@ -2,5 +2,7 @@
 	---
 
 # Marie Lionis
-(photo)
-(petite description environs 300 signes) 
+## Organisatrice
+
+Marie est la joyeuse organistatrice de FLVM, elle a la lourde tâche
+d'orchestrer et de gerer les diverses activités de l'association.

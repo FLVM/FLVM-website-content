@@ -1,5 +1,5 @@
 	title: Planning des cours
-	ical: /Volumes/Big Mama/Sites/flvm/assets/events.ics
+	ical: https://calendar.google.com/calendar/ical/assoflvm%40gmail.com/public/basic.ics
 	---
 # Planning des cours
 

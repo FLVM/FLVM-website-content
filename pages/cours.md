@@ -6,15 +6,15 @@
 
 ![Découpage des échalottes](images/cours/cours-de-cuisine.jpg)
 
-Stéphanie Egret vous accompagnera dans l'élaboration de recettes, elle vous donneras les trucs et astuces qui font la différence.  
+Stéphanie Egret vous accompagnera dans l'élaboration de recettes, elle vous donnera les trucs et astuces qui font la différence.  
 
 Stéphanie vous accueillera derrière [les fourneaux du 160](informations#les-fourneaux-du-160).
 
 ## Les petites Toques
 
-![Les petites toques aen pleine action](images/cours/les-petites-toques.jpg)
+![Les petites toques en pleine action](images/cours/les-petites-toques.jpg)
 
-Stéphanie propose également des cours pour enfants. Des recettes spécialement élaboré pour les enfants, facile à refaire à la maison.
+Stéphanie propose également des cours pour enfants. Des recettes spécialement élaborées pour les enfants, facile à refaire à la maison.
 
 Pour vous inscrire ou inscrire vos enfants, n'hésitez-pas à contacter Stéphanie au 06 41 73 81 93 ou à <contact@flvm.fr>
 

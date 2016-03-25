@@ -8,7 +8,7 @@
 
 Stéphanie Egret vous accompagnera dans l'élaboration de recettes, elle vous donnera les trucs et astuces qui font la différence.  
 
-Stéphanie vous accueillera derrière [les fourneaux du 160](informations#les-fourneaux-du-160).
+Stéphanie vous accueillera derrière [le 160](informations#le-160).
 
 ## Les petites Toques
 

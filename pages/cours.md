@@ -1,6 +1,16 @@
 	title: Cours de cuisine et de pâtisserie
 	related: informations
 	---
+# Cours de pâtisserie
+
+![](images/cours/cours-de-patisserie.jpg)
+
+Arnaud Houley, maître pâtissier, vous aidera à parfaire vos connaissances en pâtisserie, chocolaterie et confiserie.
+Les cours de pâtisseries ce déroulent à [l'Atelier de pâtisserie](informations#l-atelier-de-patisserie).
+
+Pour plannifier votre cours, n'hésitez pas à contacter Arnaud par téléphone au 06 64 50 71 23 ou par email <contact@flvm.fr>
+
+[Choisir un cours de pâtisserie](/planning){.btn .btn-cta}
 
 # Cours de cuisine
 
@@ -20,13 +30,3 @@ Pour vous inscrire ou inscrire vos enfants, n'hésitez-pas à contacter Stéphan
 
 [Choisir un cours de cuisine](/planning){.btn .btn-cta}
 
-# Cours de pâtisserie
-
-![](images/cours/cours-de-patisserie.jpg)
-
-Arnaud Houley, maître pâtissier, vous aidera à parfaire vos connaissances en pâtisserie, chocolaterie et confiserie.
-Les cours de pâtisseries ce déroulent à [l'Atelier de pâtisserie](informations#l-atelier-de-patisserie).
-
-Pour plannifier votre cours, n'hésitez pas à contacter Arnaud par téléphone au 06 64 50 71 23 ou par email <contact@flvm.fr>
-
-[Choisir un cours de pâtisserie](/planning){.btn .btn-cta}

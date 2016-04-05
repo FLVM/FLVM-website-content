@@ -1,5 +1,5 @@
 	title: Planning des cours
-	ical: https://calendar.google.com/calendar/ical/assoflvm%40gmail.com/public/basic.ics
+    related: reserver-un-cours
 	---
 # Planning des cours
 

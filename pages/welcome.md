@@ -13,3 +13,6 @@ Viens me retrouver après la classe, à partir de 17h du lundi au vendredi. Nous
 
 ### Un anniversaire original
 invite tes copains pour réaliser la pâtisserie ou la cuisine de ton choix.
+
+### Retrouvez-nous
+Mettez les photos de vos cours et vos commentaires sur https://www.facebook.com/flvm.cours/

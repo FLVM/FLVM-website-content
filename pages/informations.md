@@ -24,7 +24,7 @@ Le 160 rue Eau de Robec est équipé pour les cours de cuisine et pour les Petit
 
 ![atelier-le-160](images/atelier-le-160.JPG)
 
-:  <address>
+:<address>
  
 160, rue eaux de Robec, Passage de la petite horloge.
 	<br />
@@ -44,7 +44,7 @@ Le 160 rue Eau de Robec est équipé pour les cours de cuisine et pour les Petit
 L'atelier de pâtisserie accueille les cours de pâtisserie pour adultes et enfants.
 
 L'atelier de pâtisserie
- : <address>
+ :<address>
 	2pl du 39 ème régiment d'infanterie 
 	<br />
 	76 000 Rouen [Trouver sur une carte](https://www.google.fr/maps/place/Faites-Le+Vous-M%C3%AAme+-+Atelier+de+p%C3%A2tisserie/@49.4406801,1.1008133,17z/data=!4m7!1m4!3m3!1s0x47e0dc2bb55e0a75:0x86a03c89a2500d8b!2sFaites-Le+Vous-M%C3%AAme+-+Atelier+de+p%C3%A2tisserie!3b1!3m1!1s0x47e0dc2bb55e0a75:0x86a03c89a2500d8b){.btn}

@@ -31,7 +31,9 @@ Le 160 rue Eau de Robec est équipé pour les cours de cuisine et pour les Petit
 	76 000 Rouen [Trouver sur une carte](https://www.google.fr/maps/place/160+Rue+Eau+de+Robec,+76000+Rouen/@49.4415101,1.0988835,17z/data=!3m1!4b1!4m2!3m1!1s0x47e0ddd562561ac5:0x10270a15c9d5e977){.btn}
 
 
- Pour les réservations, contactez *Stéphanie Egret* au 06 41 73 81 93 et écrivez à <contact@flvm.fr> en laissant vos coordonnées téléphoniques.
+ Pour les réservations, contactez *Stéphanie Egret* au 06 41 73 81 93 
+ 
+ Ecrivez à <contact@flvm.fr> en laissant vos coordonnées téléphoniques.
  
  
 
@@ -50,7 +52,9 @@ L'atelier de pâtisserie
 	76 000 Rouen [Trouver sur une carte](https://www.google.fr/maps/place/Faites-Le+Vous-M%C3%AAme+-+Atelier+de+p%C3%A2tisserie/@49.4406801,1.1008133,17z/data=!4m7!1m4!3m3!1s0x47e0dc2bb55e0a75:0x86a03c89a2500d8b!2sFaites-Le+Vous-M%C3%AAme+-+Atelier+de+p%C3%A2tisserie!3b1!3m1!1s0x47e0dc2bb55e0a75:0x86a03c89a2500d8b){.btn}
 
 	
- Pour les réservations contactez *Arnaud Houley* au 06 64 50 71 23 et écrivez à <contact@flvm.fr> en laissant vos coordonnées téléphoniques.
+ Pour les réservations contactez *Arnaud Houley* au 06 64 50 71 23 
+ 
+ Ecrivez à <contact@flvm.fr> en laissant vos coordonnées téléphoniques.
 
 
 ## Tarifs {#tarifs}

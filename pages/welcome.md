@@ -12,4 +12,4 @@ Faites une surprise à la future mariée et offrez-lui un cours mémorable de cu
 Viens me retrouver après la classe, à partir de 17h du lundi au vendredi. Nous apprendrons ensemble trucs et astuces de pâtissier et cuisinier !
 
 ### Un anniversaire original
-invite tes copains pour réaliser la pâtisserie de ton choix.
+invite tes copains pour réaliser la pâtisserie ou la cuisine de ton choix.

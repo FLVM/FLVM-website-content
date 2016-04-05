@@ -27,7 +27,7 @@ Le 160 rue Eau de Robec est équipé pour les cours de cuisine et pour les Petit
  <address>
 	160, rue eaux de Robec, Passage de la petite horloge.
 	<br />
-	76 000 Rouen [Trouver sur une carte](https://www.google.fr/maps/place/160+Rue+Eau+de+Robec,+76000+Rouen/@49.4415101,1.0988835,17z/data=!3m1!4b1!4m2!3m1!1s0x47e0ddd562561ac5:0x10270a15c9d5e977){.btn}
+	76 000 Rouen [Trouver sur une carte] (https://www.google.fr/maps/place/160+Rue+Eau+de+Robec,+76000+Rouen/@49.4415101,1.0988835,17z/data=!3m1!4b1!4m2!3m1!1s0x47e0ddd562561ac5:0x10270a15c9d5e977){.btn}
 </address>
 
  Pour les réservations, contactez *Stéphanie Egret* au 06 41 73 81 93 et écrivez à <contact@flvm.fr> en laissant vos coordonnées téléphoniques.

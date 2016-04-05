@@ -2,7 +2,7 @@
 	---
 
 ## Enterrement de vie de jeune fille
-![enterrement de vie de jeune fille](pages/images/enterrement-de-vie-de-jf.jpg)
+![Enterrement de vie de jeune fille](images/enterrement-de-vie-de-jf.jpg)
 
 Faites une surprise à la future mariée et offrez-lui un cours mémorable de cuisine et de pâtisserie !
 

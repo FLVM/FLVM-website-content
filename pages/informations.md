@@ -62,7 +62,7 @@ Tarif réduit
 : **25€ par personne** pour les étudiants, les demandeurs d'emploi et les enfants.
 
 Cours à la demande
-: Si vous souhaitez un cours pour une occasion spéciale, n'hésitez-pas à [nous contacter](contact@flvm.fr).
+: Si vous souhaitez un cours pour une occasion spéciale, n'hésitez-pas à nous contacter.
 
 Adhésion
 : L'adhésion à l'association est obligatoire pour profiter des cours, elle est comprise dans le prix du cours.

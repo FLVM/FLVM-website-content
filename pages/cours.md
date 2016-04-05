@@ -18,7 +18,7 @@ Pour planifier votre cours, n'hésitez pas à contacter Arnaud par téléphone a
 
 Stéphanie Egret vous accompagnera dans l'élaboration de recettes, elle vous donnera les trucs et astuces qui font la différence.  
 
-Stéphanie vous accueillera derrière [le 160](informations#le-160).
+Stéphanie vous accueillera au 160 rue Eau de Robec [le 160](informations#le-160).
 
 ## Les petites Toques
 

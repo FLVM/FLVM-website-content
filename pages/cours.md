@@ -3,7 +3,7 @@
 	---
 # Cours de pâtisserie
 
-![](images/cours/cours-de-patisserie.jpg)
+![](images/mille feuilles.jpg)
 
 Arnaud Houley, maître pâtissier, vous aidera à parfaire vos connaissances en pâtisserie, chocolaterie et confiserie.
 Les cours se déroulent à [l'Atelier de pâtisserie](informations#l-atelier-de-patisserie).

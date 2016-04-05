@@ -1,4 +1,6 @@
-    title: Réserver un cours
+    title:information 
+##comment réserver?
     ---
     
-[Comment reserver un cours - 200 signes]
+Lorsque vous avez choisi un cours dans le planning, vous devez écrire votre selection sur contact@flvm.fr, n'oubliez pas d'indiquer votre numéro de téléphone.
+Si vous souhaitez créer votre propre thème, téléphonez aux professeurs concernés pour voir leur disponibilité.

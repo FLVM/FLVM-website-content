@@ -24,7 +24,7 @@ Le 160 rue Eau de Robec est équipé pour les cours de cuisine et pour les Petit
 
 ![atelier-le-160](images/atelier-le-160.JPG)
 
- <address>
+ 
 	160, rue eaux de Robec, Passage de la petite horloge.
 	<br />
 	76 000 Rouen [Trouver sur une carte](https://www.google.fr/maps/place/160+Rue+Eau+de+Robec,+76000+Rouen/@49.4415101,1.0988835,17z/data=!3m1!4b1!4m2!3m1!1s0x47e0ddd562561ac5:0x10270a15c9d5e977){.btn}

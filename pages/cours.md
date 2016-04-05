@@ -8,7 +8,7 @@
 Arnaud Houley, maître pâtissier, vous aidera à parfaire vos connaissances en pâtisserie, chocolaterie et confiserie.
 Les cours se déroulent à [l'Atelier de pâtisserie](informations#l-atelier-de-patisserie).
 
-Pour plannifier votre cours, n'hésitez pas à contacter Arnaud par téléphone au 06 64 50 71 23 ou par email <contact@flvm.fr>
+Pour planifier votre cours, n'hésitez pas à contacter Arnaud par téléphone au 06 64 50 71 23 ou par courriel <contact@flvm.fr>
 
 [Choisir un cours de pâtisserie](/planning){.btn .btn-cta}
 
@@ -24,9 +24,9 @@ Stéphanie vous accueillera derrière [le 160](informations#le-160).
 
 ![Les petites toques en pleine action](images/cours/les-petites-toques.jpg)
 
-Stéphanie propose également des cours pour enfants. Des recettes spécialement élaborées pour les enfants, facile à refaire à la maison.
+Stéphanie propose également des cours pour enfants. Des recettes spécialement élaborées pour les enfants, faciles à refaire à la maison.
 
-Pour vous inscrire ou inscrire vos enfants, n'hésitez-pas à contacter Stéphanie au 06 41 73 81 93 ou à <contact@flvm.fr>
+Pour inscrire vos enfants, n'hésitez-pas à contacter Stéphanie au 06 41 73 81 93 ou à <contact@flvm.fr>
 
 [Choisir un cours de cuisine](/planning){.btn .btn-cta}
 

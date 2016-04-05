@@ -24,7 +24,7 @@ Le 160 rue Eau de Robec est équipé pour les cours de cuisine et pour les Petit
 
 ![atelier-le-160](images/atelier-le-160.JPG)
 
-: <address>
+:  <address>
  
 160, rue eaux de Robec, Passage de la petite horloge.
 	<br />

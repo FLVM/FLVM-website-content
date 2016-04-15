@@ -1,7 +1,7 @@
 	title: Cours de cuisine et de pâtisserie
 	related: informations
 	---
-# Cours de pâtisserie
+## Cours de pâtisserie
 
 ![mille-feuilles](images/cours/mille-feuilles.jpg)
 
@@ -12,7 +12,7 @@ Pour planifier votre cours, n'hésitez pas à contacter Arnaud par téléphone a
 
 [Choisir un cours de pâtisserie](/planning){.btn .btn-cta}
 
-# Cours de cuisine
+## Cours de cuisine
 
 ![Découpage des échalottes](images/cours/cours-de-cuisine.jpg)
 
@@ -20,7 +20,7 @@ Stéphanie Egret vous accompagnera dans l'élaboration de recettes, elle vous do
 
 Stéphanie vous accueillera au 160 rue Eau de Robec [le 160](informations#le-160).
 
-## Les petites Toques
+### Les petites Toques
 
 ![pages/images/enfants-devant-four](images/enfants-devant-four.jpg)
 

@@ -22,7 +22,7 @@ Nous proposons 3 horaires par jours du lundi au samedi, chaque cours dure 3 heur
 ### Le 160 {#le-160}
 Le 160 rue Eau de Robec est équipé pour les cours de cuisine et pour les Petites toques.
 
-![atelier-le-160](images/atelier-le-160.JPG)
+![Façade de l'atelier du 160](images/informations/atelier-le-160.jpg)
 
 Le 160
 :   160, rue eaux de Robec, Passage de la petite horloge.
@@ -41,7 +41,7 @@ Le 160
 
 ### L'Atelier de pâtisserie {#l-atelier-de-patisserie}
 
-![photo de l'atelier de pâtisserie](images/informations/l-atelier-de-patisserie.jpg)
+![Façade de l'atelier de pâtisserie](images/informations/l-atelier-de-patisserie.jpg)
 
 L'atelier de pâtisserie accueille les cours de pâtisserie pour adultes et enfants.
 

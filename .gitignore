@@ -8,6 +8,9 @@ vanilla.md
 # Stackdump
 *.stackdump
 
+# Picassa
+.picasa.ini
+
 #################
 ## Eclipse
 #################

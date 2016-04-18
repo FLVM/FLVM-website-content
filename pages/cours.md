@@ -3,7 +3,7 @@
 	---
 ## Cours de pâtisserie
 
-![mille-feuilles](images/cours/mille-feuilles.jpg)
+![mille-feuilles](cours/images/mille-feuilles.jpg)
 
 Arnaud Houley, maître pâtissier, vous aidera à parfaire vos connaissances en pâtisserie, chocolaterie et confiserie.
 Les cours se déroulent à [l'Atelier de pâtisserie](informations#l-atelier-de-patisserie).
@@ -14,7 +14,7 @@ Pour planifier votre cours, n'hésitez pas à contacter Arnaud par téléphone a
 
 ## Cours de cuisine
 
-![Découpage des échalottes](images/cours/cours-de-cuisine.jpg)
+![Découpage des échalottes](cours/images/cours-de-cuisine.jpg)
 
 Stéphanie Egret vous accompagnera dans l'élaboration de recettes, elle vous donnera les trucs et astuces qui font la différence.  
 
@@ -22,7 +22,7 @@ Stéphanie vous accueillera au 160 rue Eau de Robec [le 160](informations#le-160
 
 ### Les petites Toques
 
-![pages/images/enfants-devant-four](images/enfants-devant-four.jpg)
+![pages/images/enfants-devant-four](cours/images/enfants-devant-four.jpg)
 
 Stéphanie propose également des cours pour enfants. Des recettes spécialement élaborées pour les enfants, faciles à refaire à la maison.
 

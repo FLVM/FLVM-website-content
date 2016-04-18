@@ -1,5 +1,5 @@
 	title: Cours de cuisine et de pâtisserie
-	related: informations
+	related: cours/informations
 	---
 ## Cours de pâtisserie
 

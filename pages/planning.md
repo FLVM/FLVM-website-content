@@ -1,5 +1,5 @@
 	title: Planning des cours
-    related: reserver-un-cours
+    related: planning/reserver-un-cours
 	---
 # Planning des cours
 

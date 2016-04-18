@@ -1,6 +1,6 @@
 	Title: À propos de FLVM
 	Description: FLVM, ateliers Rouennais de cours de cuisines et de pâtisseries
-	Related: contact, team/marie-lionis, team/arnaud-houley, team/stephanie-egret, 
+	Related: informations/contact, informations/team/marie-lionis, informationsteam/arnaud-houley, informations/team/stephanie-egret, 
 	---
 
 # Faites-Le Vous-Même {#introduction}

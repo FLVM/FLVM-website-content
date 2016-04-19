@@ -9,6 +9,8 @@ Le contenu est formaté avec la syntaxte [Markdown](https://fr.wikipedia.org/wik
 ## Images
 Les images accompagnant les texte doivent avoir une dimension maximum **`648px`** de large, elles doivent être enregisrée au format **PNG** ou **JPG**.
 
+Les images de sections (sur le coté de la page) doivent avoir une dimension de **`360px`** de large.
+
 Les images de couverture doivent au format **`1600 × 780`** (ratio `0.49`).
 
 ## Heroes

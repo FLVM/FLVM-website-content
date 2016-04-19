@@ -6,7 +6,7 @@
 ##Les choux Craqueline
 Vous réaliserez des merveilleux choux à base de pâte à craquelin, garnis de différents parfums. 
 
-##Le Paris-Brest:
+##Le Paris-Brest
 Le fameux dessert en forme de roue, inventée en 1891 en hommage à la course cycliste à base de praliné maison.
 
 ##Les éclairs

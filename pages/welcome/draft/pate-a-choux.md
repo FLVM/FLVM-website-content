@@ -1,8 +1,9 @@
+	title: Cours de pâte à choux
+	---
 #cours de pâte à choux
-![choux-craqueline](images/pâte-à-choux.jpg)
+![choux-craqueline](images/pate-a-choux.jpg)
+
 ##les choux craqueline
-
-
 vous réaliserez des merveuilleux choux à base de pâte à craquelin, garnis de differents parfums. 
 
 ##le Paris-Brest:

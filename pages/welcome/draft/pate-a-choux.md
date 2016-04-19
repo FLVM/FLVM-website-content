@@ -1,7 +1,7 @@
 	title: Cours de pâte à choux
 	---
 #Avril : le mois de la pâte à choux
-![choux-craqueline](images/pâte-à-choux.jpg)
+![choux-craqueline](images/pate-a-choux.jpg)
 
 ##Les choux Craqueline
 Vous réaliserez des merveilleux choux à base de pâte à craquelin, garnis de différents parfums. 

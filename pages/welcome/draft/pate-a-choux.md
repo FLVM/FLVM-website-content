@@ -1,6 +1,6 @@
 	title: Cours de pâte à choux
 	---
-#Avril : le mois de la pâte à choux
+# le mois de la pâte à choux
 ![choux-craqueline](images/pate-a-choux.jpg)
 
 ##Les choux Craqueline

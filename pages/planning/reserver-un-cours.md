@@ -8,3 +8,5 @@ Si vous souhaitez créer votre propre thème, téléphonez aux professeurs conce
 ![cupcakes](../planning/image/cupcakes.jpg)
 
 ![kouig-aman](../planning/image/kouig-amann.jpg)
+
+![images](../planning/image/images.jpg)

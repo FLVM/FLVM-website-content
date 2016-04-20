@@ -6,3 +6,5 @@ Lorsque vous avez choisi un cours dans le planning, vous devez écrire votre sel
 Si vous souhaitez créer votre propre thème, téléphonez aux professeurs concernés pour voir leur disponibilité.
 
 ![cupcakes](../planning/image/cupcakes.jpg)
+
+![kouig-aman](../planning/image/kouig-amann.jpg)

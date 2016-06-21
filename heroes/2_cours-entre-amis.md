@@ -1,7 +1,7 @@
-    title: Cours entre amis
-    cover: amis-en-patisserie.jpg
+    title: spécial vacances
+    cover: photo-enfant.jpg
     ---
     
-Apéritifs dinatoires, Cuisine française traditionnelle, Cuisine du monde, Macarons, pâte à choux, mille feuilles, entremets, viennoiserie et confiserie n'auront plus de secrets pour vous !
+pendant les vacances le pâtissier propose aux enfants et adolescents des stages de patisseries  de deux jours soit le matin soit l'après-midi
 
 [Réserver un cours](planning){.btn-cta}

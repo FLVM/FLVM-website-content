@@ -9,6 +9,11 @@ FLVM vous propose des cours de cuisine et de pâtisserie pour adultes et enfants
 
 Nos cours se déroulent dans [nos ateliers à Rouen](informations#ateliers), nous mettons un point d'honneur à pratiquer des [tarifs accessibles à tous](informations#tarifs).
 
+# Pour réserver vos cours 
+Téléphonez au pâtissier au 06 64 50 71 23 
+           
+ ou à la cuisinière au 06 41 73 81 93 et écrivez sur <contact@flvm.fr> en n'oublant pas de préciser vos coordonnées. 
+
 ## Horaires {#horaires}
 
 Nous proposons 3 horaires par jours du lundi au samedi, chaque cours dure 3 heures.

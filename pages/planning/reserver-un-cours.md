@@ -1,7 +1,6 @@
     title:information 
-##comment réserver?
-    ---
-    
+##comment réserver ?
+       
 Si vous souhaitez créer votre propre thème, téléphonez aux professeurs concernés pour voir leur disponibilité.
 Ce ne sont que des propositions, vous pouvez modifier le planning (sauf s'il y a déjà des inscrits!)
 

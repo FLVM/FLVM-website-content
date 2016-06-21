@@ -3,7 +3,7 @@
 	---
 # Planning des cours
 
-#Comment réserver ?  Lorsque vous avez choisi un cours dans le planning, vous écrivez votre selection sur <contact@flvm.fr> et vous n'oubliez pas d'indiquer votre numéro de téléphone. Vous pouvez aussi téléphoner à Marie au 06 62 81 56 74
+###Comment réserver ?  Lorsque vous avez choisi un cours dans le planning, vous écrivez votre selection sur <contact@flvm.fr> et vous n'oubliez pas d'indiquer votre numéro de téléphone. Vous pouvez aussi téléphoner à Marie au 06 62 81 56 74
 
 
 

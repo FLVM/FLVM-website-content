@@ -58,6 +58,8 @@ L'atelier de pâtisserie
 
 
 ## Tarifs {#tarifs}
+Tarif stage vacances
+: **40€ / enfants** pour une session de deux jours.
 
 Tarif de groupe
 : **35€ par personne** pour un groupe de 5 personnes minimun.

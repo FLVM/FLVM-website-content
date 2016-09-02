@@ -22,6 +22,7 @@ Afin de planifier un cours, contactez le au 06 88 89 44 33.
 
 [Le 160 c'est par ici](informations#le-160).
 
+[Choisir un cours de boulangerie](/planning){.btn .btn-cta}
 ## Cours de cuisine
 
 ![Découpage des échalottes](cours/images/cours-de-cuisine.jpg)

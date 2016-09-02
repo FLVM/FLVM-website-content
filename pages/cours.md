@@ -12,13 +12,25 @@ Pour planifier votre cours, n'hésitez pas à contacter Arnaud par téléphone a
 
 [Choisir un cours de pâtisserie](/planning){.btn .btn-cta}
 
+## Cours de boulangerie 
+
+![cours-boulange](cours/images/cours-boulange.jpg)
+
+Rémy Guilbeau vous montrera le chemin de la panification et autres tours de mains propres aux boulangers, il vous acueillera dans le fournil du 160 rue Eau de Robec.
+
+Afin de planifier un cours n'hésitez à le contacter au 06 88 89 44 33.
+
+[Le 160 c'est par ici](informations#le-160).
+
 ## Cours de cuisine
 
 ![Découpage des échalottes](cours/images/cours-de-cuisine.jpg)
 
 Stéphanie Egret vous accompagnera dans l'élaboration de recettes, elle vous donnera les trucs et astuces qui font la différence.  
 
-Stéphanie vous accueillera au 160 rue Eau de Robec [le 160](informations#le-160).
+Stéphanie vous accueillera au 160 rue Eau de Robec, inscription au 06 41 73 81 93 
+
+[Le 160 c'est par ici ](informations#le-160).
 
 ### Les petites Toques
 

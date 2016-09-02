@@ -1,4 +1,4 @@
-    title: spécial vacances
+    title:# DU NOUVEAU POUR LA RENTREE !
     cover: photo-enfant.jpg
     ---
     

@@ -1,5 +1,5 @@
     title:information 
-##comment réserver ?
+
 ---
        
 Si vous souhaitez créer votre propre thème, téléphonez aux professeurs concernés pour voir leur disponibilité.

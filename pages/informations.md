@@ -25,7 +25,7 @@ Nous proposons 3 horaires par jours du lundi au samedi, chaque cours dure 3 heur
 ## Les ateliers {#ateliers}
 
 ### Le 160 {#le-160}
-Le 160 rue Eau de Robec est équipé pour les cours de cuisine et pour les Petites toques.
+Le 160 rue Eau de Robec est équipé pour les cours de boulangerie, de cuisine et pour les Petites toques.
 
 ![Façade de l'atelier du 160](informations/images/atelier-le-160.jpg)
 
@@ -36,7 +36,8 @@ Le 160
 	[Trouver sur une carte](https://www.google.fr/maps/place/160+Rue+Eau+de+Robec,+76000+Rouen/@49.4415101,1.0988835,17z/data=!3m1!4b1!4m2!3m1!1s0x47e0ddd562561ac5:0x10270a15c9d5e977){.btn}
 
 
- Pour les réservations, contactez *Stéphanie Egret* au 06 41 73 81 93 
+ Pour les réservations, contactez *Stéphanie Egret* (Cuisine et Petites Toques) au 06 41 73 81 93 et *Rémy Guilbeau* (Boulangerie) au 06 88 89 44 33
+ 
  
  Ecrivez à <contact@flvm.fr> en laissant vos coordonnées téléphoniques.
  
@@ -63,8 +64,11 @@ L'atelier de pâtisserie
 
 
 ## Tarifs {#tarifs}
-Tarif stage vacances
-: **40€ / enfants** pour une session de deux jours.
+Tarif cours pour deux personnes:
+: **65€ / personne** 
+
+Tarif trois à quatre personnes:
+: **45€ / personne**
 
 Tarif de groupe
 : **35€ par personne** pour un groupe de 5 personnes minimun.

@@ -2,7 +2,6 @@
     cover: photo-enfant.jpg
     ---
     
-Pendant les vacances le pâtissier propose aux enfants et adolescents des stages de patisserie de deux jours, soit le matin soit l'après-midi.
-
+Cours de boulangerie animés par Rémy, et les petites toques derrière les fourneaux les mercredis matins aussi !
 
 [Réserver un cours](planning){.btn-cta}

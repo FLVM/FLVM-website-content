@@ -1,7 +1,7 @@
 	title: 
 	---
 # Au 160 rue Eau de Robec:
-![choux-craqueline](images/Superbes photos boulangerie.jpg)
+![Superbes photos boulangerie](images/Superbes photos boulangerie.jpg)
 
 ##Atelier Pain
 Venez réaliser les spécialités boulangères de France et d'ailleurs ! Du Pain Bio au levain au pain suédois...

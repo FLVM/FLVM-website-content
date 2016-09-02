@@ -1,14 +1,18 @@
-	title: Cours de pâte à choux
+	title: 
 	---
-# le mois de la pâte à choux
-![choux-craqueline](images/pate-a-choux.jpg)
+# Au 160 rue Eau de Robec:
+![choux-craqueline](images/Superbes photos boulangerie.jpg)
 
-##Les choux Craqueline
-Vous réaliserez des merveilleux choux à base de pâte à craquelin, garnis de différents parfums. 
+##Atelier Pain
+Venez réaliser les spécialités boulangères de France et d'ailleurs ! Du Pain Bio au levain au pain suédois...
 
-##Le Paris-Brest
-Le fameux dessert en forme de roue, inventée en 1891 en hommage à la course cycliste à base de praliné maison.
+##Atelier Viennoiserie
+Confectionnez les croissants et pains chocolat de votre enfance et autres gourmandises d'exception !
 
-##Les éclairs
-Vous fabriquerez les éclairs de Paris avec différents parfums et glaçages
+## La cuisine du 160
+Composez votre menu : entrée/plat ou plat/dessert
 
+Apéritif dinatoire, bouchées diverses et variées, terrine de poisson et poisson en papillote ;
+
+
+Poulet au cidre, cassoulet, boeuf bourguignon et autre porc en croûte n'auront plus de secret pour vous !

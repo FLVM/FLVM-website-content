@@ -1,4 +1,4 @@
-  #  title: Du nouveau pour la rentrée !
+   title: Du nouveau pour la rentrée !
     cover: photo-enfant.jpg
     ---
     

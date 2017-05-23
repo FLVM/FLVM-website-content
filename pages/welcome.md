@@ -1,5 +1,5 @@
 	Title : FLVM
-    related : welcome/draft/pate-a-choux,
+    related : welcome/atelier-du-160,
 	---
 
 ## Enterrement de vie de jeune fille

@@ -3,9 +3,9 @@
 	---
 # Planning des cours
 
-Ce ne sont que des propositions, vous pouvez modifier le planning (sauf s'il y a déjà des inscrits!)
+###Comment réserver ?  Lorsque vous avez choisi un cours dans le planning, vous écrivez votre selection sur <contact@flvm.fr> et vous n'oubliez pas d'indiquer votre numéro de téléphone. Vous pouvez aussi téléphoner à Marie au 06 62 81 56 74
 
-Si vous voulez ramener vos créations, n'oubliez pas vos récipients hermétiques.
+
 
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=assoflvm%40gmail.com&amp;color=%232F6309&amp;ctz=Europe%2FParis" style="border-width:0" width="672" height="600" frameborder="0" scrolling="no"></iframe>

@@ -9,6 +9,11 @@ FLVM vous propose des cours de cuisine et de pâtisserie pour adultes et enfants
 
 Nos cours se déroulent dans [nos ateliers à Rouen](informations#ateliers), nous mettons un point d'honneur à pratiquer des [tarifs accessibles à tous](informations#tarifs).
 
+# Pour réserver vos cours 
+Téléphonez au pâtissier au 06 64 50 71 23 
+           
+ ou à la cuisinière au 06 41 73 81 93 et écrivez sur <contact@flvm.fr> en n'oublant pas de préciser vos coordonnées. 
+
 ## Horaires {#horaires}
 
 Nous proposons 3 horaires par jours du lundi au samedi, chaque cours dure 3 heures.
@@ -20,7 +25,7 @@ Nous proposons 3 horaires par jours du lundi au samedi, chaque cours dure 3 heur
 ## Les ateliers {#ateliers}
 
 ### Le 160 {#le-160}
-Le 160 rue Eau de Robec est équipé pour les cours de cuisine et pour les Petites toques.
+Le 160 rue Eau de Robec est équipé pour les cours de boulangerie, de cuisine et pour les Petites toques.
 
 ![Façade de l'atelier du 160](informations/images/atelier-le-160.jpg)
 
@@ -31,7 +36,8 @@ Le 160
 	[Trouver sur une carte](https://www.google.fr/maps/place/160+Rue+Eau+de+Robec,+76000+Rouen/@49.4415101,1.0988835,17z/data=!3m1!4b1!4m2!3m1!1s0x47e0ddd562561ac5:0x10270a15c9d5e977){.btn}
 
 
- Pour les réservations, contactez *Stéphanie Egret* au 06 41 73 81 93 
+ Pour les réservations, contactez *Stéphanie Egret* (Cuisine et Petites Toques) au 06 41 73 81 93 et *Rémy Guilbeau* (Boulangerie) au 06 88 89 44 33
+ 
  
  Ecrivez à <contact@flvm.fr> en laissant vos coordonnées téléphoniques.
  
@@ -58,6 +64,11 @@ L'atelier de pâtisserie
 
 
 ## Tarifs {#tarifs}
+Tarif cours pour deux personnes:
+: **65€ / personne** 
+
+Tarif trois à quatre personnes:
+: **45€ / personne**
 
 Tarif de groupe
 : **35€ par personne** pour un groupe de 5 personnes minimun.

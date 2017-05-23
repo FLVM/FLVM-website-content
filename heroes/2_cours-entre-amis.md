@@ -1,7 +1,7 @@
-    title: Cours entre amis
-    cover: amis-en-patisserie.jpg
+   title: Du nouveau pour la rentrée !
+    cover: rentree-boulange.jpg
     ---
     
-Apéritifs dinatoires, Cuisine française traditionnelle, Cuisine du monde, Macarons, pâte à choux, mille feuilles, entremets, viennoiserie et confiserie n'auront plus de secrets pour vous !
+Cours de boulangerie animés par Rémy, et les petites toques derrière les fourneaux les mercredis matins aussi !
 
 [Réserver un cours](planning){.btn-cta}

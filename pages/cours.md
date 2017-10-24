@@ -16,9 +16,9 @@ Pour planifier votre cours, n'hésitez pas à contacter Arnaud par téléphone a
 
 ![cours-boulange](cours/images/cours-boulange.jpg)
 
-Rémy Guilbeau vous montrera le chemin de la panification et autres tours de mains propres aux boulangers, il vous acueillera dans le fournil du 160 rue Eau de Robec.
+Arnaud Houley vous montrera le chemin de la panification et autres tours de mains propres aux boulangers, il vous acueillera dans le fournil du 160 rue Eau de Robec.
 
-Afin de planifier un cours, contactez le au 06 88 89 44 33.
+Afin de planifier un cours, contactez le au 06 64 50 71 23.
 
 [Le 160 c'est par ici](informations#le-160).
 

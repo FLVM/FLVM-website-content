@@ -10,7 +10,11 @@ Faites une surprise à la future mariée et offrez-lui un cours mémorable de cu
 ## Laisse ton cartable et mets ton tablier&nbsp;!
 ![les petites toques](cours/images/les-petites-toques.jpg)
 
-Viens me retrouver après la classe, à partir de 17h du lundi au vendredi. Nous apprendrons ensemble trucs et astuces de pâtissier et cuisinier !
+Viens me retrouver après la classe, à partir de 17h du lundi au vendredi. Nous apprendrons ensemble trucs et astuces de pâtissier et cuisinier ! 
+Si tu veux, dès les mercredis matins, tu peux aussi réaliser du bon pain ou de la viennoiserie! MIAM 😋
+
+
+[Réserver un cours](planning){.btn-cta}
 
 ### Un anniversaire original
 invite tes copains pour réaliser la pâtisserie ou la cuisine de ton choix.

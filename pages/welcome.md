@@ -1,6 +1,8 @@
 	Title : FLVM
     related : welcome/atelier-du-160,
 	---
+## Team Building
+FLVM, c’est aussi un lieu pour vos événements professionnels, n’hésitez pas à nous contacter à <contact@flmv.fr>. 
 
 ## Enterrement de vie de jeune fille
 ![Enterrement de vie de jeune fille](welcome/images/enterrement-de-vie-de-jf.jpg)

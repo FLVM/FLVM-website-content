@@ -4,7 +4,7 @@
 ![montage-boulangerie](images/montage-boulangerie-vignette.jpg)
 
 ##Atelier Pain
-Venez réaliser les spécialités boulangères de France et d'ailleurs ! Du Pain Bio au levain au pain suédois...
+Venez réaliser du Pain Bio au levain ...
 
 ##Atelier Viennoiserie
 Confectionnez les croissants et pains chocolat de votre enfance et autres gourmandises d'exception !

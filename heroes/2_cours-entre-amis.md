@@ -1,7 +1,7 @@
-   title: Du nouveau pour la rentrée !
+    title: Du nouveau pour la rentrée !
     cover: rentree-boulange.jpg
     ---
     
-Cours de boulangerie animés par Rémy, et les petites toques derrière les fourneaux les mercredis matins aussi !
+Des cours de boulangerie et les "petites toques" sont derrière les fourneaux les mercredis matins !
 
 [Réserver un cours](planning){.btn-cta}

@@ -3,10 +3,10 @@
 # Au 160 rue Eau de Robec
 ![montage-boulangerie](images/montage-boulangerie-vignette.jpg)
 
-##Atelier Pain
+## Atelier Pain
 Venez réaliser du Pain Bio au levain ...
 
-##Atelier Viennoiserie
+## Atelier Viennoiserie
 Confectionnez les croissants et pains chocolat de votre enfance et autres gourmandises d'exception !
 
 ## La cuisine du 160

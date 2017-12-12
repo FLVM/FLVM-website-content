@@ -9,7 +9,30 @@ FLVM vous propose des cours de cuisine et de pâtisserie pour adultes et enfants
 
 Nos cours se déroulent dans [nos ateliers à Rouen](informations#ateliers), nous mettons un point d'honneur à pratiquer des [tarifs accessibles à tous](informations#tarifs).
 
-# Pour réserver vos cours 
+
+## Tarifs {#tarifs}
+Tarif cours pour deux personnes:
+: **67€ / personne** 
+
+Tarif trois à quatre personnes:
+: **47€ / personne**
+
+Tarif de groupe
+: **37€ par personne** pour un groupe de 5 personnes minimun.
+
+Tarif réduit
+: **27€ par personne** pour les étudiants, les demandeurs d'emploi et les enfants.
+
+Cours à la demande
+: Si vous souhaitez un cours pour une occasion spéciale, n'hésitez-pas à nous contacter.
+
+Adhésion
+: L'adhésion à l'association est obligatoire pour profiter des cours, elle est comprise dans le prix du cours.
+
+Carte Cadeaux
+: **50€ par carte individuelle** 
+
+## Pour réserver vos cours 
 Téléphonez au pâtissier au 06 64 50 71 23 
            
  ou à la cuisinière au 06 41 73 81 93 et écrivez sur <contact@flvm.fr> en n'oublant pas de préciser vos coordonnées. 
@@ -61,23 +84,3 @@ L'atelier de pâtisserie
  Pour les réservations contactez *Arnaud Houley* au 06 64 50 71 23 
  
  Ecrivez à <contact@flvm.fr> en laissant vos coordonnées téléphoniques.
-
-
-## Tarifs {#tarifs}
-Tarif cours pour deux personnes:
-: **67€ / personne** 
-
-Tarif trois à quatre personnes:
-: **47€ / personne**
-
-Tarif de groupe
-: **37€ par personne** pour un groupe de 5 personnes minimun.
-
-Tarif réduit
-: **27€ par personne** pour les étudiants, les demandeurs d'emploi et les enfants.
-
-Cours à la demande
-: Si vous souhaitez un cours pour une occasion spéciale, n'hésitez-pas à nous contacter.
-
-Adhésion
-: L'adhésion à l'association est obligatoire pour profiter des cours, elle est comprise dans le prix du cours.

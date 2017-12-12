@@ -35,7 +35,7 @@ Carte Cadeaux
 ## Pour réserver vos cours 
 Téléphonez au pâtissier au 06 64 50 71 23 
            
- ou à la cuisinière au 06 41 73 81 93 et écrivez sur <contact@flvm.fr> en n'oublant pas de préciser vos coordonnées. 
+ ou à la cuisinière au 06 41 73 81 93 et écrivez sur <contact@flvm.fr> en n'oubliant pas de préciser vos coordonnées. 
 
 ## Horaires {#horaires}
 

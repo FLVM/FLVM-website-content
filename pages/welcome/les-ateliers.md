@@ -5,7 +5,7 @@
 Confectionnez les croissants et pains chocolat de votre enfance et autres gourmandises d'exception !
 
 ## Atelier pâtisserie
-Venez apprendre à réaliser tous les gateaux professionnels que vous aurez envie de refaire à la maison
+Venez apprendre à réaliser tous les gateaux et desserts professionnels que vous aurez envie de refaire à la maison
 	---
 # Au 160 rue Eau de Robec
 ![montage-boulangerie](images/montage-boulangerie-vignette.jpg)

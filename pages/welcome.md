@@ -1,5 +1,5 @@
 	Title : FLVM
-    related : welcome/les-ateliers.md
+    related : welcome/les-ateliers
 	---
 ## Team Building
 FLVM, c’est aussi un lieu pour vos événements professionnels, n’hésitez pas à nous contacter à <contact@flmv.fr>. 

@@ -21,7 +21,7 @@ Tarif de groupe
 : **37€ par personne** pour un groupe de 5 personnes minimun.
 
 Tarif réduit
-: **27€ par personne** pour les étudiants, les demandeurs d'emploi et les enfants.
+: **27€ par personne** (groupe de 4 personnes minimum) pour les étudiants, les demandeurs d'emploi et les enfants.
 
 Cours à la demande
 : Si vous souhaitez un cours pour une occasion spéciale, n'hésitez-pas à nous contacter.

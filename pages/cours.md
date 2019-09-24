@@ -16,30 +16,19 @@ Pour planifier votre cours, n'hésitez pas à contacter Arnaud par téléphone a
 
 ![cours-boulange](cours/images/cours-boulange.jpg)
 
-Arnaud Houley vous montrera le chemin de la panification et autres tours de mains propres aux boulangers, il vous acueillera dans le fournil du 160 rue Eau de Robec.
+Arnaud Houley vous montrera le chemin de la panification et autres tours de mains propres aux boulangers, il vous acueillera dans le fournil du [160 rue Eau de Robec](informations#le-160).
 
-Afin de planifier un cours, contactez le au 06 64 50 71 23.
-
-[Le 160 c'est par ici](informations#le-160).
+Afin de planifier un cours de boulangerie, contactez Arnaud au 06 64 50 71 23.
 
 [Choisir un cours de boulangerie](/planning){.btn .btn-cta}
+
 ## Cours de cuisine
 
 ![Découpage des échalottes](cours/images/cours-de-cuisine.jpg)
 
-Stéphanie Egret vous accompagnera dans l'élaboration de recettes, elle vous donnera les trucs et astuces qui font la différence.  
+Marie Lionis vous accompagnera dans l'élaboration de recettes, elle vous donnera les trucs et astuces qui font la différence. Marie vous accueillera au [160 rue Eau de Robec](informations#le-160).
 
-Stéphanie vous accueillera au 160 rue Eau de Robec, inscription au 06 41 73 81 93 
-
-[Le 160 c'est par ici ](informations#le-160).
-
-### Les petites Toques
-
-![pages/images/enfants-devant-four](cours/images/enfants-devant-four.jpg)
-
-Stéphanie propose également des cours pour enfants. Des recettes spécialement élaborées pour les enfants, faciles à refaire à la maison.
-
-Pour inscrire vos enfants, n'hésitez-pas à contacter Stéphanie au 06 41 73 81 93 ou à <contact@flvm.fr>
+Afin de planifier un cours de cuisine, contactez Marie au 06 62 81 56 74.
 
 [Choisir un cours de cuisine](/planning){.btn .btn-cta}
 

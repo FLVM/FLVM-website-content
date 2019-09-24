@@ -10,7 +10,7 @@
 	</p>
 </address>
 
-Téléphone : 06 62 81 56 74 ou 06 64 50 71 23  
+Téléphone : Marie 06 62 81 56 74 ou Arnaud 06 64 50 71 23  
 Email : <contact@flvm.fr>
 
 [Télécharger le contact](content/documents/FLVM.vcf){.btn}

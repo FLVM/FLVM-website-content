@@ -1,6 +1,6 @@
 	Title: À propos de FLVM
 	Description: FLVM, ateliers Rouennais de cours de cuisines et de pâtisseries
-	Related: informations/contact, informations/team/marie-lionis, informations/team/arnaud-houley
+	Related: informations/contact, informations/team/arnaud-houley, informations/team/bastien-vannoni, informations/team/marie-lionis
 	---
 
 # Faites-Le Vous-Même {#introduction}
@@ -12,7 +12,7 @@ Nos cours se déroulent dans [nos ateliers à Rouen](informations#ateliers), nou
 
 ## Tarifs {#tarifs}
 Tarif cours pour deux personnes:
-: **67€ / personne** 
+: **67€ / personne**
 
 Tarif trois à quatre personnes:
 : **47€ / personne**
@@ -30,12 +30,14 @@ Adhésion
 : L'adhésion à l'association est obligatoire pour profiter des cours, elle est comprise dans le prix du cours.
 
 Carte Cadeaux
-: **50€ par carte individuelle** 
+: **50€ par carte individuelle**
 
-## Pour réserver vos cours 
-Téléphonez à Arnaud le pâtissier au 06 64 50 71 23 
-           
- ou à Marie la cuisinière au 06 62 81 56 74 et écrivez sur <contact@flvm.fr> en n'oubliant pas de préciser vos coordonnées. 
+## Pour réserver vos cours
+Pour **réserver un cours de pâtisseries**, contacter notre pâtissier Arnaud au 06 64 50 71 23.
+
+Les **cours de cuisines sont à réservez** auprès de notre cuisinier Bastien, écrivez-lui à <bastien@flvm.fr>.
+
+Vous voulez **organiser un événement original** autour de la cuisine et de la pâtisserie, nous pouvons vous proposer des prestations sur mesure; n'hésitez-pas à nous en faire part à <contact@flvm.fr>, nous vous contacterosn rapidement pour vous accompagner.
 
 ## Horaires {#horaires}
 
@@ -60,10 +62,10 @@ Le 160
 
 
  Pour les réservations cuisine, contactez *Marie Lionist* au 06 62 81 56 74
- 
- 
+
+
  Ecrivez à <contact@flvm.fr> en laissant vos coordonnées téléphoniques.
- 
+
 ### L'Atelier de pâtisserie {#l-atelier-de-patisserie}
 
 ![Façade de l'atelier de pâtisserie](informations/images/l-atelier-de-patisserie.jpg)
@@ -71,12 +73,12 @@ Le 160
 L'atelier de pâtisserie accueille les cours de pâtisserie pour adultes et enfants.
 
 L'atelier de pâtisserie
-:	2pl du 39 ème régiment d'infanterie 
+:	2pl du 39 ème régiment d'infanterie
 	<br />
 	76 000 Rouen
 	[Afficher sur une carte](https://www.google.fr/maps/place/Faites-Le+Vous-M%C3%AAme+-+Atelier+de+p%C3%A2tisserie/@49.4406801,1.1008133,17z/data=!4m7!1m4!3m3!1s0x47e0dc2bb55e0a75:0x86a03c89a2500d8b!2sFaites-Le+Vous-M%C3%AAme+-+Atelier+de+p%C3%A2tisserie!3b1!3m1!1s0x47e0dc2bb55e0a75:0x86a03c89a2500d8b){.btn}
 
-	
- Pour les réservations pâtisserie, contactez *Arnaud Houley* au 06 64 50 71 23 
- 
+
+ Pour les réservations pâtisserie, contactez *Arnaud Houley* au 06 64 50 71 23
+
  Ecrivez à <contact@flvm.fr> en laissant vos coordonnées téléphoniques.

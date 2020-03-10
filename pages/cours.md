@@ -12,7 +12,7 @@ Pour planifier votre cours, n'hésitez pas à contacter Arnaud par téléphone a
 
 [Choisir un cours de pâtisserie](/planning){.btn .btn-cta}
 
-## Cours de boulangerie 
+## Cours de boulangerie
 
 ![cours-boulange](cours/images/cours-boulange.jpg)
 
@@ -26,9 +26,8 @@ Afin de planifier un cours de boulangerie, contactez Arnaud au 06 64 50 71 23.
 
 ![Découpage des échalottes](cours/images/cours-de-cuisine.jpg)
 
-Marie Lionis vous accompagnera dans l'élaboration de recettes, elle vous donnera les trucs et astuces qui font la différence. Marie vous accueillera au [160 rue Eau de Robec](informations#le-160).
+Bastien Vannoni vous accompagnera dans l'élaboration de recettes, il vous donnera les trucs et astuces qui font la différence. Les ateliers se déroulent au [160 rue Eau de Robec](informations#le-160).
 
-Afin de planifier un cours de cuisine, contactez Marie au 06 62 81 56 74.
+Pour réserver un cours de cuisine, contactez Bastien au .
 
 [Choisir un cours de cuisine](/planning){.btn .btn-cta}
-

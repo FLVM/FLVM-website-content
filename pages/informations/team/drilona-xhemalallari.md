@@ -10,4 +10,4 @@ Drilona va vous accompagner dans une évasion culinaire autour de la Méditerran
 Les enfants ne sont pas en reste! grâce à la « géo-cuisine » ils pourront connaître et apprendre à préparer des plats provenant du monde entier.
 Surprise à prévoir pour les fêtes !
 
-Pour réserver un cours de cuisine, contactez Drilona à drilona@flvm.fr.
+Pour réserver un cours de cuisine, contactez Drilona à <drilona@flvm.fr>.

@@ -61,7 +61,7 @@ Le 160
 	[Afficher sur une carte](https://www.google.fr/maps/place/160+Rue+Eau+de+Robec,+76000+Rouen/@49.4415101,1.0988835,17z/data=!3m1!4b1!4m2!3m1!1s0x47e0ddd562561ac5:0x10270a15c9d5e977){.btn}
 
 
- Pour les réservations cuisine, contactez *Marie Lionist* au 06 62 81 56 74
+ Pour les réservations cuisine, contactez *Marie Lionis* au 06 62 81 56 74
 
 
  Ecrivez à <contact@flvm.fr> en laissant vos coordonnées téléphoniques.

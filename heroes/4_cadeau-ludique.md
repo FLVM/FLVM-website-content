@@ -4,4 +4,4 @@
 
 Pour les enfants ou les adultes, Faites découvrir les trucs et astuces de pâtisserie et de cuisines en offrant une carte-cadeaux FLVM.
 
-[Offir une carte-cadeaux](informations#tarifs){.btn-cta}
+[Offrir une carte-cadeaux](informations#tarifs-carte-cadeaux){.btn-cta}

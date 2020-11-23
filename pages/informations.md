@@ -35,7 +35,7 @@ Carte Cadeaux
 ## Pour réserver vos cours
 Pour **réserver un cours de pâtisseries**, contacter notre pâtissier Arnaud au 06 64 50 71 23.
 
-Les **cours de cuisines sont à réservez** auprès de notre cuisinier Bastien, écrivez-lui à <bastien@flvm.fr>.
+Les **cours de cuisines sont à réservez** auprès de notre cuisinière Drilona, écrivez-lui à <drilona@flvm.fr>.
 
 Vous voulez **organiser un événement original** autour de la cuisine et de la pâtisserie, nous pouvons vous proposer des prestations sur mesure; n'hésitez-pas à nous en faire part à <contact@flvm.fr>, nous vous contacterosn rapidement pour vous accompagner.
 

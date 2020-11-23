@@ -30,7 +30,7 @@ Adhésion
 : L'adhésion à l'association est obligatoire pour profiter des cours, elle est comprise dans le prix du cours.
 
 Carte Cadeaux
-: **50€ par carte individuelle**
+: Offrez un cours à un **enfant pour 30€** ou à un **adulte pour 50€**.
 
 ## Pour réserver vos cours
 Pour **réserver un cours de pâtisseries**, contacter notre pâtissier Arnaud au 06 64 50 71 23.

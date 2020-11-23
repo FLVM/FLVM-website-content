@@ -26,8 +26,8 @@ Afin de planifier un cours de boulangerie, contactez Arnaud au 06 64 50 71 23.
 
 ![Découpage des échalottes](cours/images/cours-de-cuisine.jpg)
 
-Bastien Vannoni vous accompagnera dans l'élaboration de recettes, il vous donnera les trucs et astuces qui font la différence. Les ateliers se déroulent au [160 rue Eau de Robec](informations#le-160).
+Drilona Richard vous accompagnera dans l'élaboration de recettes, elle vous donnera les trucs et astuces qui font la différence. Les ateliers se déroulent au [160 rue Eau de Robec](informations#le-160).
 
-Pour réserver un cours de cuisine, contactez Bastien à <bastien@flvm.fr>
+Pour réserver un cours de cuisine, contactez Drilona à <drilona@flvm.fr>
 
 [Choisir un cours de cuisine](/planning){.btn .btn-cta}

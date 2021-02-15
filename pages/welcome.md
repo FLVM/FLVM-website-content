@@ -1,6 +1,11 @@
 	Title : FLVM
     related : welcome/les-ateliers
 	---
+## Offrez un cadeau savoureux
+Pour les enfants ou les adultes, Faites découvrir les trucs et astuces de pâtisserie et de cuisines en offrant une carte-cadeaux FLVM.
+
+[Offrir une carte-cadeaux](informations#tarifs-carte-cadeaux){.btn-cta}
+
 ## Team Building
 FLVM, c’est aussi un lieu pour vos événements professionnels, n’hésitez pas à nous contacter à <contact@flmv.fr>. 
 

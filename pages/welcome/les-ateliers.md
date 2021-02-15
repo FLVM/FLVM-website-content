@@ -9,7 +9,7 @@ Vos chocolats de pâques en vente à l'atelier de pâtisserie [au 2 place du 39<
 ## Au 2 place du 39<sup>e</sup> Régiment d'Infanterie
 
 ### Atelier Viennoiserie
-Confectionnez les croissants et pains chocolat de votre enfance et autres gourmandises d'exception !
+Confectionnez les croissants et pains chocolat de votre enfance et au	tres gourmandises d'exception !
 
 ### Atelier pâtisserie
 Venez apprendre à réaliser tous les gateaux et desserts professionnels que vous aurez envie de refaire à la maison

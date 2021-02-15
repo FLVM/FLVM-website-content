@@ -13,4 +13,3 @@ Confectionnez les croissants et pains chocolat de votre enfance et au	tres gourm
 
 ### Atelier pâtisserie
 Venez apprendre à réaliser tous les gateaux et desserts professionnels que vous aurez envie de refaire à la maison
-	---

@@ -2,8 +2,8 @@
     ---
 
 <div style="padding: 1em; padding-bottom: 1px; background-color: #fcefce; margin-bottom: 1.5em" markdown=1>
-## À partir du 10 mars
-Vos chocolats de pâques en vente à l'atelier de pâtisserie [au 2 place du 39<sup>e</sup> Régiment d'Infanterie](informations#l-atelier-de-patisserie).
+## Vos chocolat de pâques
+À partir du 10 mars, vos chocolats de pâques en vente à l'atelier de pâtisserie [au 2 place du 39<sup>e</sup> Régiment d'Infanterie](informations#l-atelier-de-patisserie).
 </div>
 
 ## Au 2 place du 39<sup>e</sup> Régiment d'Infanterie

@@ -6,4 +6,4 @@ Les ateliers adultes sont temporairement indisponibles dû aux mesures sanitaire
 
 En revanche les ateliers pour enfants et adolescents restent ouverts, consultez le planning pour reserver un cours.
 
-[Reserver un cours](planning){.btn-cta}
+[Réserver un cours](planning){.btn-cta}

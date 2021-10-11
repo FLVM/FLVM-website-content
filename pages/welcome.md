@@ -7,7 +7,7 @@ Pour les enfants ou les adultes, Faites découvrir les trucs et astuces de pâti
 [Offrir une carte-cadeaux](informations#tarifs-carte-cadeaux){.btn-cta}
 
 ## Team Building
-FLVM, c’est aussi un lieu pour vos événements professionnels, n’hésitez pas à nous contacter à <contact@flmv.fr>. 
+FLVM, c’est aussi un lieu pour vos événements professionnels, n’hésitez pas à nous contacter à <contact@flvm.fr>. 
 
 ## Enterrement de vie de jeune fille
 ![Enterrement de vie de jeune fille](welcome/images/enterrement-de-vie-de-jf.jpg)
